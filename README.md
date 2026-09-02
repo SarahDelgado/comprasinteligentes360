@@ -52,7 +52,7 @@ comprasinteligentes360/
 - [ ] **Fase 2 — Aplicación CAP**: modelo de datos, servicio remoto, UI
 - [ ] **Fase 3 — Integración**: iFlows de tipo de cambio y notificación
 - [ ] **Fase 4 — IA Generativa**: prompts en AI Launchpad, módulo real/mock en CAP
-- [ ] **Fase 5 — Documentación final**: vídeo demo, diagrama definitivo, publicación en LinkedIn
+- [ ] **Fase 5 — Documentación final**: vídeo demo, diagrama definitivo
 
 ## Cómo ejecutar el proyecto
 
