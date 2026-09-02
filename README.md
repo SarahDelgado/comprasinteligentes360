@@ -42,21 +42,21 @@ comprasinteligentes360/
 ├── abap/                   # objetos RAP: CDS, BDEF, metadata
 ├── cap-app/                # proyecto CAP: db, srv, app
 ├── integration-suite/      # iFlows exportados + capturas
-└── ai-genai/                # prompts, capturas de AI Launchpad, módulo IA
+└── ai-genai/               # prompts, capturas de AI Launchpad, módulo IA
 ```
 
 ## Roadmap / progreso
 
-- [ ] **Fase 0 — Administración BTP** (`C_ADBTP`): subcuenta, entitlements, boosters, role collections, destinos
-- [ ] **Fase 1 — Backend RAP en ABAP Cloud** (`C_ABAPD`): CDS, Behavior Definition, servicio OData V4
-- [ ] **Fase 2 — Aplicación CAP** (`C_CPE`): modelo de datos, servicio remoto, UI
-- [ ] **Fase 3 — Integración** (`C_CPI`): iFlows de tipo de cambio y notificación
-- [ ] **Fase 4 — IA Generativa** (`C_AIG`): prompts en AI Launchpad, módulo real/mock en CAP
+- [ ] **Fase 0 — Administración BTP**: subcuenta, entitlements, boosters, role collections, destinos
+- [ ] **Fase 1 — Backend RAP en ABAP Cloud**: CDS, Behavior Definition, servicio OData V4
+- [ ] **Fase 2 — Aplicación CAP**: modelo de datos, servicio remoto, UI
+- [ ] **Fase 3 — Integración**: iFlows de tipo de cambio y notificación
+- [ ] **Fase 4 — IA Generativa**: prompts en AI Launchpad, módulo real/mock en CAP
 - [ ] **Fase 5 — Documentación final**: vídeo demo, diagrama definitivo, publicación en LinkedIn
 
 ## Cómo ejecutar el proyecto
 
-*(se completa en la Fase 2, cuando el proyecto CAP esté operativo)*
+*(se completa en la Fase 2)*
 
 ## Notas técnicas relevantes
 
