@@ -47,7 +47,7 @@ comprasinteligentes360/
 
 ## Roadmap / progreso
 
-- [ ] **Fase 0 — Administración BTP**: subcuenta, entitlements, boosters, role collections, destinos
+- [ ] **Fase 0 — Administración BTP**: subcuenta, entitlements, boosters, role collections, destinos [Administración BTP](docs/administracion-btp.md)
 - [ ] **Fase 1 — Backend RAP en ABAP Cloud**: CDS, Behavior Definition, servicio OData V4
 - [ ] **Fase 2 — Aplicación CAP**: modelo de datos, servicio remoto, UI
 - [ ] **Fase 3 — Integración**: iFlows de tipo de cambio y notificación
